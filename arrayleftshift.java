@@ -24,5 +24,3 @@ public class ArrayLeftShift {
 	}
 
 }
-Footer
-© 2023 GitHub, Inc.
